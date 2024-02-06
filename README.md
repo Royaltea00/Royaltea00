@@ -8,7 +8,7 @@ I am an upcoming Full Stack Developer; enthusiastic and knowledgeable in web dev
 
 - 🔭 I’m currently aiming for Full-Stack Development mastery
 - 🌱 I’m currently learning everything 😎
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2024 Goals: Learn more about web3
 - ⚡ Fun fact: I code with one hand and fix bugs with the other, all while sipping coffee.
   
 :mailbox: @robersi366@gmail.com
